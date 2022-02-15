@@ -24,6 +24,14 @@ Here are some ideas to get you started:
 📫 Reach me or read my blog at: www.shivammehta.me <br/>
 </p>
 
+## Fun projects
+
+# generative-art-web
+Generative art with js!
+<img height="400px" src="https://i.imgur.com/Xg6UZV6.png"/>
+
+https://github.com/BirgerMoell/generative-art-web
+
 
 ## GitHub Stats:
 
